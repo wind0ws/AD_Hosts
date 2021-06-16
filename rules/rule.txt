@@ -1,0 +1,5 @@
+
+!====TVMORE START
+|http://imagecache.aginomoto.com/img/advertisement/
+|http://imgcache.tvmore.com.cn/img/advertisement/
+!====TVMORE END

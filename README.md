@@ -1,2 +1,2 @@
-# AD_Hosts
-hosts of ad
+# ad_rule
+rule of ad
