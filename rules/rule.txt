@@ -1,5 +1,20 @@
-
+! TV ad 
+||miaozhen.com^
+||adashx.m.taobao.com^
+||adashbc.ut.taobao.com^
+||ad.xiaomi.com^
+||644a.tv^
+! iflytek voice log
+||log.voicecloud.cn^
+||log.qvb.qcloud.com^
 !====TVMORE START
 |http://imagecache.aginomoto.com/img/advertisement/
 |http://imgcache.tvmore.com.cn/img/advertisement/
 !====TVMORE END
+!====KuaiShou START
+||log-sdk.ksapisrv.com^
+||ad.partner.gifshow.com^
+!====KuaiShou END
+!====Baidu START
+||ada.baidu.com^
+!====Baidu END

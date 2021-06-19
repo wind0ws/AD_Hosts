@@ -17,17 +17,23 @@
 127.0.0.1 log.b612kaji.com
 127.0.0.1 api-ad-data.kajicam.com
 127.0.0.1 miaozhen.com
+127.0.0.1 adashx.m.taobao.com
+127.0.0.1 adashbc.ut.taobao.com
+127.0.0.1 api.ad.xiaomi.com
+127.0.0.1 sdkconfig.ad.xiaomi.com
+127.0.0.1 applog.uc.cn
 #====CIBN START
 #127.0.0.1 api.adv.ott.cibntv.net #此域名为加载home配置，屏蔽也不影响
 #127.0.0.1 api.cp33.ott.cibntv.net #此域名为vst播放详情页，不可屏蔽
 127.0.0.1 vali-g1.cp31.ott.cibntv.net
 127.0.0.1 valipl.cp31.ott.cibntv.net
 127.0.0.1 v4-valipl.cp31.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 cp31.ott.cibntv.net
 127.0.0.1 ex.advst.cp33.ott.cibntv.net
 127.0.0.1 ad.advst.cp33.ott.cibntv.net
 127.0.0.1 stat.dsp.advst.cp33.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
+127.0.0.1 stat.v2.cp33.ott.cibntv.net
 127.0.0.1 mtrace.play.cp81.ott.cibntv.net
 127.0.0.1 otheve.play.cp81.ott.cibntv.net
 127.0.0.1 ad.cmvideo.cn
@@ -45,6 +51,7 @@
 #====TENCENT VIDEO START
 127.0.0.1 vhotwsh.video.qq.com
 127.0.0.1 lmbsy.qq.com
+127.0.0.1 aeventlog.beacon.qq.com
 127.0.0.1 andrqd.play.aiseet.atianqi.com
 127.0.0.1 othstr.play.aiseet.atianqi.com
 127.0.0.1 mtrace.play.aiseet.atianqi.com
