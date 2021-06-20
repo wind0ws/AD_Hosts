@@ -2,10 +2,6 @@
 127.0.0.1 localhost
 ::1 localhost
 
-#====WX_AD START
-127.0.0.1 wxsnsdy.wxs.qq.com
-127.0.0.1 wxsnsdythumb.wxs.qq.com
-#====WX_AD END
 
 127.0.0.1 upgrade.bftv.com
 127.0.0.1 ali-ad.a.yximgs.com
@@ -25,15 +21,11 @@
 #====CIBN START
 #127.0.0.1 api.adv.ott.cibntv.net #此域名为加载home配置，屏蔽也不影响
 #127.0.0.1 api.cp33.ott.cibntv.net #此域名为vst播放详情页，不可屏蔽
-127.0.0.1 vali-g1.cp31.ott.cibntv.net
-127.0.0.1 valipl.cp31.ott.cibntv.net
-127.0.0.1 v4-valipl.cp31.ott.cibntv.net
-127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 cp31.ott.cibntv.net
 127.0.0.1 ex.advst.cp33.ott.cibntv.net
 127.0.0.1 ad.advst.cp33.ott.cibntv.net
 127.0.0.1 stat.dsp.advst.cp33.ott.cibntv.net
-127.0.0.1 stat.v2.cp33.ott.cibntv.net
+127.0.0.1 valf.atm.cp31.ott.cibntv.net
 127.0.0.1 mtrace.play.cp81.ott.cibntv.net
 127.0.0.1 otheve.play.cp81.ott.cibntv.net
 127.0.0.1 ad.cmvideo.cn
@@ -76,6 +68,10 @@
 127.0.0.1 livew.l.qq.com
 127.0.0.1 c.l.qq.com
 127.0.0.1 mdevstat.qqlive.qq.com
+127.0.0.1 pingma.qq.com
+127.0.0.1 news-l.play.aiseet.atianqi.com
+127.0.0.1 btrace.play.aiseet.atianqi.com
+127.0.0.1 andrqd.play.aiseet.atianqi.com
 #====TENCENT VIDEO END
 #====TVMORE START
 127.0.0.1 ad.aginomoto.com

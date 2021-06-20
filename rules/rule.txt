@@ -7,6 +7,10 @@
 ! iflytek voice log
 ||log.voicecloud.cn^
 ||log.qvb.qcloud.com^
+||alog.umeng.com^
+!====VST START
+|https://img.cp33.ott.cibntv.net/pic/cibnvst/sysPic/bg/
+!====VST END
 !====TVMORE START
 |http://imagecache.aginomoto.com/img/advertisement/
 |http://imgcache.tvmore.com.cn/img/advertisement/
